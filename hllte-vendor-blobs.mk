@@ -25,7 +25,5 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hllte/proprietary/etc/wifi/cred.conf:system/etc/wifi/cred.conf \
     vendor/samsung/hllte/proprietary/etc/wifi/nvram_mfg.txt:system/etc/wifi/nvram_mfg.txt \
     vendor/samsung/hllte/proprietary/etc/wifi/nvram_net.txt:system/etc/wifi/nvram_net.txt \
-    vendor/samsung/hllte/proprietary/lib/hw/nfc_nci.universal5260.so:system/lib/hw/nfc_nci.universal5260.so \
-    vendor/samsung/hllte/proprietary/vendor/firmware/sec_s3fnrn3_firmware.bin:system/vendor/firmware/sec_s3fnrn3_firmware.bin \
     vendor/samsung/hllte/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/hllte/proprietary/lib/hw/consumerir.default.so:system/lib/hw/consumerir.default.so
