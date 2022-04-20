@@ -25,6 +25,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hllte/proprietary/etc/wifi/nvram_net.txt:system/etc/wifi/nvram_net.txt \
     vendor/samsung/hllte/proprietary/lib/hw/consumerir.default.so:system/lib/hw/consumerir.default.so \
     vendor/samsung/hllte/proprietary/lib/libbt-vendor.so:system/lib/libbt-vendor.so \
+    vendor/samsung/hllte/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/hllte/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/hllte/proprietary/vendor/firmware/bcm4335_V0105.0586.hcd:system/vendor/firmware/bcm4335_V0105.0586.hcd \
     vendor/samsung/hllte/proprietary/vendor/firmware/bcm4335_V0105.0586_wisol.hcd:system/vendor/firmware/bcm4335_V0105.0586_wisol.hcd
